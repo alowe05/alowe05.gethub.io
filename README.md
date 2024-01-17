@@ -1,2 +1,2 @@
-# alowe05.gethub.io
+# alowe05.github.io
 Website For Web Design Class
